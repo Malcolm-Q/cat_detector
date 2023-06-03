@@ -5,12 +5,9 @@ This project uses opencv, Tensorflow, efficientnetB0, [and this brilliant commun
 
 After months of trying to make our plants harder for our cat to reach (unsuccessfully) I've come up with a foolproof solution. The best defense really is a strong offense.
 
-Here is a video of it in action:
+Here is a gif of it in action:
 
-<video controls>
-  <source src="cat_defense.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![cat_gif](cat_defense.gif)
 
 Note that the script uses the head of B0 as it contains a class for a tabby cat. My cat has a very distinct tabby coat and after some testing it can classify her reliably.
 
